@@ -15,6 +15,7 @@ parts:
     - file: session1/speech-generation.md
     - file: session1/antrag_prompt.md
     - file: session1/deepresearch.md
+    - file: session1/distillation.md
     - file: session1/notebooklm.md
 
   - caption: Advanced usage
