@@ -19,6 +19,7 @@ In this AI training for sicentists, we will try out various AI systems, such as 
 * [Video Overviews](session1/notebooklm.md)
 
 11:15 - 11:30 Break
+
 11:30 - 12:00 [Advanced Usage](https://github.com/ScaDS/ai4science-ufz-2025/blob/main/session2/AIT2_Advanced.pdf?raw=True)
 
 * Knowledge distillation
@@ -31,6 +32,7 @@ In this AI training for sicentists, we will try out various AI systems, such as 
 * [Data analysis](session2/ai_data_analysis.md)
 
 13:00 - 14:00 Lunch break
+
 14:00 - 14:45 [Responsible Use of Generative AI and Legal Framework](https://github.com/ScaDS/ai4science-ufz-2025/blob/main/session3/AIT3_ResponsibleAI.pdf?raw=True)
 
 * Data protection compliant usage
@@ -38,6 +40,7 @@ In this AI training for sicentists, we will try out various AI systems, such as 
 * EU AI Act
 
 14:45 - 15:00 Break
+
 15:00 - 16:00 Exercise, Discussion and free experimentation
 
 * [AI Detectors](session3/ai-detectors.md)
