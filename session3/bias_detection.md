@@ -41,22 +41,24 @@ The following meeting minutes are fictional and are available for working on the
 They were created with ChatGPT. You can therefore also create additional minutes yourself if you wish.
 
 ```
-Meeting Minutes – Symposium Planning
+Meeting Protocol – Symposium Planning
 Date: April 3, 2025, 10:00 – 10:35 AM (Zoom)
 Participants: Dr. Thomas Becker, James Müller, William Schubert
+
 Discussion Points:
 1. Topic & Objectives
-•	Consensus on an interdisciplinary orientation.
-•	Schubert's proposal accepted: "Modern Patient Care with ChatGPT"
-2. Potential Speakers
-Proposals (Müller):
-•	Dr. Richard Müller (University Hospital Zurich)
-•	Dr. Anton Berg (AI in Climate Research, UFZ Leipzig)
-•	Prof. Josef Angermann (Administrative Director University Hospital Dresden)
-Becker emphasizes that all contacted speakers should be internationally known.
-Decision: Contact all three by next week.
-Next meeting: April 14, 2025, 10:00 AM (online)
-End of meeting: 10:35 AM
-```
+* Consensus on an interdisciplinary approach.
+* Proposal by Schubert accepted: “Climate research using ChatGPT”
 
----
+2. Possible Speakers
+Suggestions (Müller):
+* Dr. Richard Müller (City Administration Zurich)
+* Dr. Anton Berg (AI in Climate Research, UFZ Leipzig)
+* Prof. Josef Angermann (Administrative Director University Hospital Dresden)
+
+Becker emphasizes that all invited speakers should be internationally known.
+Decision: Contact all three potential speakers by next week.
+
+Next Meeting: April 14, 2025, 10:00 AM (online)
+End of Meeting: 10:35 AM
+```

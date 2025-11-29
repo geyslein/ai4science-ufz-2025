@@ -8,7 +8,7 @@ As an example, the automated analysis of participants in a lecture shall serve. 
 
 ## Data Generation
 
-Systems like [ChatGPT](https://chat.openai.com/), [Claude](https://claude.ai/) and [Julius AI](https://julius.ai/) have the ability to generate tabular data as well. For example, you can upload a quasi [empty CSV file](fmi11_studi_liste.csv). If you do this with your own file, please check once more that it really contains no data from real persons.
+Systems like [ChatGPT](https://chat.openai.com/), [Claude](https://claude.ai/) and [Julius AI](https://julius.ai/) have the ability to generate tabular data as well. For example, you can upload an [empty CSV file](fmi11_student_list.csv). If you do this with your own file, please check once more that it really contains no data from real persons.
 
 You can then instruct the AI system with this prompt:
 
@@ -20,11 +20,7 @@ They are at least in the 2nd academic semester, on average in the 6th semester a
 there are a few outliers in the 10th semester.
 ```
 
-![](studi_data_gen.png)
-
 After a moment, you can download the filled CSV file again.
-
-![](studi_data_gen2.png)
 
 ## Data Analysis
 
@@ -37,15 +33,11 @@ I would like to see the distribution of the academic semester as a histogram and
 a pie chart of the study program the students are from.
 ```
 
-![](analyse_studi_data.png)
-
-You could then copy the program code for this analysis and execute it again, for example, on the [Jupyter Hub Platform of the Computer Center in Jülich](https://jupyter.jsc.fz-juelich.de/) (alternatively [Jupyter@NFDI](https://hub.nfdi-jupyter.de/)). Basic programming knowledge is helpful for this to make small code adjustments if necessary. In the given example, the first two lines of code must be written by hand:
-
-![](analyse_studi_data2.png)
+You could then copy the program code for this analysis and execute it again, for example, on the [Jupyter Hub Platform of the Compute Center in Jülich](https://jupyter.jsc.fz-juelich.de/) (alternatively [Jupyter@NFDI](https://hub.nfdi-jupyter.de/)). Basic programming knowledge is helpful for this to make small code adjustments if necessary. 
 
 ## Your Own Data Analysis
 
-Follow the workflow above to analyze your own data. Alternatively, download publicly accessible data from the internet and analyze it:
+Follow the workflow above to analyze publicly accessible data from the internet and analyze it:
 
 * [Leipzig's residents by age (annual figures)](https://opendata.leipzig.de/dataset/einwohner-nach-alter-jahreszahlen): Plot a distribution of age in Leipzig's population. How has the distribution changed between 2002 and 2022?
 * [7-day incidence of COVID-19 cases in Germany (Source: Robert Koch Institute)](https://zenodo.org/records/15393229): Plot the distribution of the 7-day incidence from a COVID statistics table (CSV). Which federal state has the highest incidence in January 2021?
