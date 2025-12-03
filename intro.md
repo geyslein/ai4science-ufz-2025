@@ -1,6 +1,8 @@
 # AI4Science Training at UFZ 2025
 
-In this AI training for sicentists, we will try out various AI systems, such as ChatGPT, and learn how to use such systems properly.
+In this AI training for sicentists, we will learn how Generative Artificial Intelligence works, try out various AI systems, and learn how to use such systems properly. We will also dive into responsible AI usage and legal contraints. 
+
+Slides are available [online](https://doi.org/10.5281/zenodo.17799126) for reuse. Materials on this website and slides can be reused under the conditions of the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
 ## Program
 
