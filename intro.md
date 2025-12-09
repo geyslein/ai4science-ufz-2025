@@ -6,7 +6,7 @@ Slides are available [online](https://doi.org/10.5281/zenodo.17799126) for reuse
 
 ## Program
 
-9:30 - 10:15 [Introduction and Fundamentals](https://github.com/ScaDS/ai4science-ufz-2025/blob/main/session1/AIT1_Intro.pdf?raw=True)
+9:30 - 10:15 [Introduction and Fundamentals](session1/AIST1_Intro.pdf)
 
 * Introduction to Artificial Intelligence, AI systems and language models
 * Application areas and limitations of AI in text generation
@@ -22,7 +22,7 @@ Slides are available [online](https://doi.org/10.5281/zenodo.17799126) for reuse
 
 11:15 - 11:30 Break
 
-11:30 - 12:00 [Advanced Usage](https://github.com/ScaDS/ai4science-ufz-2025/blob/main/session2/AIT2_Advanced.pdf?raw=True)
+11:30 - 12:00 [Advanced Usage](session2/AIST2_Advanced.pdf)
 
 * Knowledge distillation
 * Retrieval-Augmented Generation
@@ -35,7 +35,7 @@ Slides are available [online](https://doi.org/10.5281/zenodo.17799126) for reuse
 
 13:00 - 14:00 Lunch break
 
-14:00 - 14:45 [Responsible Use of Generative AI and Legal Framework](https://github.com/ScaDS/ai4science-ufz-2025/blob/main/session3/AIT3_ResponsibleAI.pdf?raw=True)
+14:00 - 14:45 [Responsible Use of Generative AI and Legal Framework](session3/AIST3_ResponsibleAI.pdf)
 
 * Data protection compliant usage
 * Copyright
